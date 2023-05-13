@@ -1,2 +1,2 @@
 # LINE-schemas
-LINE schemasを収集する
+LINE schemasを収集するプロジェクト
